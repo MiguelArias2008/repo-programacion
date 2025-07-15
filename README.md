@@ -2,7 +2,7 @@
 
 ## Mi Primer Proyecto con Git
 
-Este es el proyecto de prueba para el curso de Fundamentos de Programación.
+Este es el segundo commit de mi proyecto de prueba para el curso de Fundamentos de Programación.
 
 **Autor:** Miguelangel Arias Osorio
 - **Lenguaje favorito:** Python
